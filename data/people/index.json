@@ -258,6 +258,12 @@
     "path": "data/people/p_udi_persi.json"
   },
   {
+    "id": "p_udi_zamberg",
+    "name": "Udi Zamberg",
+    "birth_year": 1952,
+    "path": "data/people/p_udi_zamberg.json"
+  },
+  {
     "id": "p_udita_goswami",
     "name": "Udita Goswami",
     "birth_year": 1984,
@@ -681,6 +687,11 @@
     "path": "data/people/p_ukasz_simlat.json"
   },
   {
+    "id": "p_ukasz_urbanik",
+    "name": "Łukasz Urbanik",
+    "path": "data/people/p_ukasz_urbanik.json"
+  },
+  {
     "id": "p_uki_satake",
     "name": "Uki Satake",
     "birth_year": 1992,
@@ -726,6 +737,12 @@
     "id": "p_ulan_isakbekov",
     "name": "Ulan Isakbekov",
     "path": "data/people/p_ulan_isakbekov.json"
+  },
+  {
+    "id": "p_ulana_suprun",
+    "name": "Ulana Suprun",
+    "birth_year": 1963,
+    "path": "data/people/p_ulana_suprun.json"
   },
   {
     "id": "p_ulannaq_ingemann",
@@ -1601,6 +1618,12 @@
     "path": "data/people/p_ulrike_koch.json"
   },
   {
+    "id": "p_ulrike_kofler",
+    "name": "Ulrike Kofler",
+    "birth_year": 1973,
+    "path": "data/people/p_ulrike_kofler.json"
+  },
+  {
     "id": "p_ulrike_kriener",
     "name": "Ulrike Kriener",
     "birth_year": 1954,
@@ -1647,6 +1670,11 @@
     "name": "Ulrike Schamoni",
     "birth_year": 1965,
     "path": "data/people/p_ulrike_schamoni.json"
+  },
+  {
+    "id": "p_ulrike_schaz",
+    "name": "Ulrike Schaz",
+    "path": "data/people/p_ulrike_schaz.json"
   },
   {
     "id": "p_ulrike_schirm",
@@ -1807,6 +1835,11 @@
     "name": "Umang Jain",
     "birth_year": 1995,
     "path": "data/people/p_umang_jain.json"
+  },
+  {
+    "id": "p_umanu_elijah",
+    "name": "Umanu Elijah",
+    "path": "data/people/p_umanu_elijah.json"
   },
   {
     "id": "p_umar_gabr",
@@ -2330,6 +2363,12 @@
     "path": "data/people/p_upi_avianto.json"
   },
   {
+    "id": "p_upie_guava",
+    "name": "Upie Guava",
+    "birth_year": 1976,
+    "path": "data/people/p_upie_guava.json"
+  },
+  {
     "id": "p_upinder_randhawa",
     "name": "Upinder Randhawa",
     "path": "data/people/p_upinder_randhawa.json"
@@ -2464,6 +2503,12 @@
     "name": "Uri Klauzner",
     "birth_year": 1963,
     "path": "data/people/p_uri_klauzner.json"
+  },
+  {
+    "id": "p_uri_kranot",
+    "name": "Uri Kranot",
+    "birth_year": 1974,
+    "path": "data/people/p_uri_kranot.json"
   },
   {
     "id": "p_uri_l_schwarz",
@@ -2893,6 +2938,11 @@
     "path": "data/people/p_urszula_urbaniak.json"
   },
   {
+    "id": "p_urte_amelie_fink",
+    "name": "Urte Amelie Fink",
+    "path": "data/people/p_urte_amelie_fink.json"
+  },
+  {
     "id": "p_uru_eke",
     "name": "Uru Eke",
     "path": "data/people/p_uru_eke.json"
@@ -3065,6 +3115,12 @@
     "path": "data/people/p_ushoshi_sengupta.json"
   },
   {
+    "id": "p_usman_ally",
+    "name": "Usman Ally",
+    "birth_year": 1982,
+    "path": "data/people/p_usman_ally.json"
+  },
+  {
     "id": "p_usnie_khalilova",
     "name": "Usnie Khalilova",
     "path": "data/people/p_usnie_khalilova.json"
@@ -3228,6 +3284,11 @@
     "path": "data/people/p_uttej.json"
   },
   {
+    "id": "p_uttung_hitendra_thakur",
+    "name": "Uttung Hitendra Thakur",
+    "path": "data/people/p_uttung_hitendra_thakur.json"
+  },
+  {
     "id": "p_utz_richter",
     "name": "Utz Richter",
     "birth_year": 1927,
@@ -3384,6 +3445,11 @@
     "name": "Uygar Tamer",
     "birth_year": 1971,
     "path": "data/people/p_uygar_tamer.json"
+  },
+  {
+    "id": "p_uyoyou_adia",
+    "name": "Uyoyou Adia",
+    "path": "data/people/p_uyoyou_adia.json"
   },
   {
     "id": "p_uzair_zaheer_khan",
