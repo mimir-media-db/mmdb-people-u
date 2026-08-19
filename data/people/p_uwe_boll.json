@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_uwe_boll",
+  "name": "Uwe Boll",
+  "external_ids": {
+    "wikidata": "Q61347",
+    "imdb": "nm0093051"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}

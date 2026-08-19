@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ursula_andermatt",
+  "name": "Ursula Andermatt",
+  "external_ids": {
+    "wikidata": "Q2501503",
+    "imdb": "nm0025975"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1957,
+  "death_year": 2022
+}
