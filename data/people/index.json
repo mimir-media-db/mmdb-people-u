@@ -1028,6 +1028,12 @@
     "path": "data/people/p_ulgar_manzakoglu.json"
   },
   {
+    "id": "p_uli_aigner",
+    "name": "Uli Aigner",
+    "birth_year": 1964,
+    "path": "data/people/p_uli_aigner.json"
+  },
+  {
     "id": "p_uli_aselmann",
     "name": "Uli Aselmann",
     "birth_year": 1956,
@@ -1200,6 +1206,12 @@
     "name": "Ulla Gottlieb",
     "birth_year": 1945,
     "path": "data/people/p_ulla_gottlieb.json"
+  },
+  {
+    "id": "p_ulla_heikkila",
+    "name": "Ulla Heikkilä",
+    "birth_year": 1988,
+    "path": "data/people/p_ulla_heikkila.json"
   },
   {
     "id": "p_ulla_lehmann",
@@ -2137,6 +2149,12 @@
     "path": "data/people/p_umesh_vinayak_kulkarni.json"
   },
   {
+    "id": "p_umi_myers",
+    "name": "Umi Myers",
+    "birth_year": 2000,
+    "path": "data/people/p_umi_myers.json"
+  },
+  {
     "id": "p_umid_khamdamov",
     "name": "Umid Khamdamov",
     "path": "data/people/p_umid_khamdamov.json"
@@ -2389,6 +2407,11 @@
     "name": "Unjoo Moon",
     "birth_year": 1964,
     "path": "data/people/p_unjoo_moon.json"
+  },
+  {
+    "id": "p_unmesh_gunguly",
+    "name": "Unmesh Gunguly",
+    "path": "data/people/p_unmesh_gunguly.json"
   },
   {
     "id": "p_unnati_davara",
@@ -2831,6 +2854,12 @@
     "path": "data/people/p_urs_althaus.json"
   },
   {
+    "id": "p_urs_augstburger",
+    "name": "Urs Augstburger",
+    "birth_year": 1965,
+    "path": "data/people/p_urs_augstburger.json"
+  },
+  {
     "id": "p_urs_bihler",
     "name": "Urs Bihler",
     "birth_year": 1944,
@@ -3161,6 +3190,12 @@
     "path": "data/people/p_urwa_tul_wusqa.json"
   },
   {
+    "id": "p_urzila_carlson",
+    "name": "Urzila Carlson",
+    "birth_year": 1976,
+    "path": "data/people/p_urzila_carlson.json"
+  },
+  {
     "id": "p_urzula_barba_hopfner",
     "name": "Urzula Barba Hopfner",
     "birth_year": 1982,
@@ -3195,6 +3230,12 @@
     "name": "Usama Mukwaya",
     "birth_year": 1989,
     "path": "data/people/p_usama_mukwaya.json"
+  },
+  {
+    "id": "p_usamah_zaid_yasin",
+    "name": "Usamah Zaid Yasin",
+    "birth_year": 1982,
+    "path": "data/people/p_usamah_zaid_yasin.json"
   },
   {
     "id": "p_usasi_misra",
@@ -3375,6 +3416,12 @@
     "id": "p_uta_beria",
     "name": "Uta Beria",
     "path": "data/people/p_uta_beria.json"
+  },
+  {
+    "id": "p_uta_briesewitz",
+    "name": "Uta Briesewitz",
+    "birth_year": 1967,
+    "path": "data/people/p_uta_briesewitz.json"
   },
   {
     "id": "p_uta_taeger",
@@ -3713,6 +3760,12 @@
     "name": "Uyaiedu Ikpe-Etim",
     "birth_year": 1988,
     "path": "data/people/p_uyaiedu_ikpeetim.json"
+  },
+  {
+    "id": "p_uyen_an",
+    "name": "Uyển Ân",
+    "birth_year": 1999,
+    "path": "data/people/p_uyen_an.json"
   },
   {
     "id": "p_uygar_tamer",
