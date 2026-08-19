@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_umur_turagay",
+  "name": "Umur Turagay",
+  "external_ids": {
+    "wikidata": "Q114680220",
+    "imdb": "nm0876834"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1958
+}
