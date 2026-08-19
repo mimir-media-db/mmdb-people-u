@@ -92,6 +92,11 @@
     "path": "data/people/p_uccio_de_santis.json"
   },
   {
+    "id": "p_uche_abuah",
+    "name": "Uche Abuah",
+    "path": "data/people/p_uche_abuah.json"
+  },
+  {
     "id": "p_uche_elendu",
     "name": "Uche Elendu",
     "birth_year": 1986,
@@ -130,6 +135,12 @@
     "id": "p_ucja_zgryszka",
     "name": "Łucja Zgryszka",
     "path": "data/people/p_ucja_zgryszka.json"
+  },
+  {
+    "id": "p_ucop_cecupak",
+    "name": "Ucop Cecupak",
+    "birth_year": 1974,
+    "path": "data/people/p_ucop_cecupak.json"
   },
   {
     "id": "p_udai_singh_pawar",
@@ -220,6 +231,11 @@
     "id": "p_udhaya",
     "name": "Udhaya",
     "path": "data/people/p_udhaya.json"
+  },
+  {
+    "id": "p_udhaya_deep",
+    "name": "Udhaya Deep",
+    "path": "data/people/p_udhaya_deep.json"
   },
   {
     "id": "p_udhayabhanu_maheswaran",
@@ -628,6 +644,12 @@
     "name": "Łukasz Garlicki",
     "birth_year": 1977,
     "path": "data/people/p_ukasz_garlicki.json"
+  },
+  {
+    "id": "p_ukasz_grzegorzek",
+    "name": "Łukasz Grzegorzek",
+    "birth_year": 1979,
+    "path": "data/people/p_ukasz_grzegorzek.json"
   },
   {
     "id": "p_ukasz_jaczewski",
@@ -1425,6 +1447,12 @@
     "path": "data/people/p_ulrich_rydzewski.json"
   },
   {
+    "id": "p_ulrich_schwarz",
+    "name": "Ulrich Schwarz",
+    "birth_year": 1954,
+    "path": "data/people/p_ulrich_schwarz.json"
+  },
+  {
     "id": "p_ulrich_seidl",
     "name": "Ulrich Seidl",
     "birth_year": 1952,
@@ -1558,6 +1586,11 @@
     "path": "data/people/p_ulrika_malmgren.json"
   },
   {
+    "id": "p_ulrika_pape",
+    "name": "Ulrika Pape",
+    "path": "data/people/p_ulrika_pape.json"
+  },
+  {
     "id": "p_ulrike_arnold",
     "name": "Ulrike Arnold",
     "birth_year": 1964,
@@ -1689,6 +1722,12 @@
     "path": "data/people/p_ulrike_sturzbecher.json"
   },
   {
+    "id": "p_ulrike_von_gawlowski",
+    "name": "Ulrike von Gawlowski",
+    "birth_year": 1986,
+    "path": "data/people/p_ulrike_von_gawlowski.json"
+  },
+  {
     "id": "p_ulrike_willenbacher",
     "name": "Ulrike Willenbacher",
     "birth_year": 1955,
@@ -1735,6 +1774,11 @@
     "name": "Ülviyyə Könül",
     "birth_year": 1972,
     "path": "data/people/p_ulviyy_konul.json"
+  },
+  {
+    "id": "p_ulyana_chan",
+    "name": "Ulyana Chan",
+    "path": "data/people/p_ulyana_chan.json"
   },
   {
     "id": "p_ulyana_kandaurova",
@@ -2082,6 +2126,12 @@
     "name": "Ümit Ünal",
     "birth_year": 1965,
     "path": "data/people/p_umit_unal.json"
+  },
+  {
+    "id": "p_ummi_nazeera",
+    "name": "Ummi Nazeera",
+    "birth_year": 1990,
+    "path": "data/people/p_ummi_nazeera.json"
   },
   {
     "id": "p_umur_turagay",
@@ -2569,6 +2619,11 @@
     "path": "data/people/p_urmas_eero_liiv.json"
   },
   {
+    "id": "p_urmet_piiling",
+    "name": "Urmet Piiling",
+    "path": "data/people/p_urmet_piiling.json"
+  },
+  {
     "id": "p_urmie_plein",
     "name": "Urmie Plein",
     "birth_year": 1966,
@@ -2735,6 +2790,12 @@
     "name": "Ursina Lardi",
     "birth_year": 1970,
     "path": "data/people/p_ursina_lardi.json"
+  },
+  {
+    "id": "p_urska_djukic",
+    "name": "Urška Djukić",
+    "birth_year": 1985,
+    "path": "data/people/p_urska_djukic.json"
   },
   {
     "id": "p_ursula_andermatt",
@@ -3074,6 +3135,11 @@
     "path": "data/people/p_usha_patel.json"
   },
   {
+    "id": "p_usha_ramanathan",
+    "name": "Usha Ramanathan",
+    "path": "data/people/p_usha_ramanathan.json"
+  },
+  {
     "id": "p_usha_uthup",
     "name": "Usha Uthup",
     "birth_year": 1947,
@@ -3148,6 +3214,12 @@
     "name": "Uta Taeger",
     "birth_year": 1940,
     "path": "data/people/p_uta_taeger.json"
+  },
+  {
+    "id": "p_uta_yorikawa",
+    "name": "Uta Yorikawa",
+    "birth_year": 2003,
+    "path": "data/people/p_uta_yorikawa.json"
   },
   {
     "id": "p_utamaro_yokosuka",
@@ -3406,6 +3478,12 @@
     "path": "data/people/p_uwe_rohde.json"
   },
   {
+    "id": "p_uwe_schonbeck",
+    "name": "Uwe Schönbeck",
+    "birth_year": 1958,
+    "path": "data/people/p_uwe_schonbeck.json"
+  },
+  {
     "id": "p_uwe_schott",
     "name": "Uwe Schott",
     "birth_year": 1965,
@@ -3490,6 +3568,11 @@
     "id": "p_uzo_osimpka",
     "name": "Uzo Osimpka",
     "path": "data/people/p_uzo_osimpka.json"
+  },
+  {
+    "id": "p_uzoamaka_aniunoh",
+    "name": "Uzoamaka Aniunoh",
+    "path": "data/people/p_uzoamaka_aniunoh.json"
   },
   {
     "id": "p_uzodinma_umeh",
