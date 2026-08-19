@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_umberto_eco",
+  "name": "Umberto Eco",
+  "external_ids": {
+    "wikidata": "Q12807",
+    "imdb": "nm0248767"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1932,
+  "death_year": 2016
+}
