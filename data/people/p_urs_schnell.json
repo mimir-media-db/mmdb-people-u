@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_urs_schnell",
+  "name": "Urs Schnell",
+  "external_ids": {
+    "wikidata": "Q95264321",
+    "imdb": "nm3555215"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1950
+}
