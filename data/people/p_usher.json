@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_usher",
+  "name": "Usher",
+  "external_ids": {
+    "wikidata": "Q165911",
+    "imdb": "nm0713378"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}
