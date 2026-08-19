@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_uma_tamil_actress",
+  "name": "Uma (Tamil actress)",
+  "external_ids": {
+    "wikidata": "Q7881023",
+    "imdb": "nm2704843"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}
