@@ -108,6 +108,12 @@
     "path": "data/people/p_uday_subba.json"
   },
   {
+    "id": "p_udaya_dharmawardhana",
+    "name": "Udaya Dharmawardhana",
+    "birth_year": 1900,
+    "path": "data/people/p_udaya_dharmawardhana.json"
+  },
+  {
     "id": "p_udayakantha_warnasuriya",
     "name": "Udayakantha Warnasuriya",
     "path": "data/people/p_udayakantha_warnasuriya.json"
@@ -306,6 +312,12 @@
     "path": "data/people/p_ugod.json"
   },
   {
+    "id": "p_ugur_bilgin",
+    "name": "Uğur Bilgin",
+    "birth_year": 1979,
+    "path": "data/people/p_ugur_bilgin.json"
+  },
+  {
     "id": "p_ugur_polat",
     "name": "Uğur Polat",
     "birth_year": 1961,
@@ -440,6 +452,11 @@
     "name": "Uladzimir Yankowski",
     "birth_year": 1960,
     "path": "data/people/p_uladzimir_yankowski.json"
+  },
+  {
+    "id": "p_ulan_isakbekov",
+    "name": "Ulan Isakbekov",
+    "path": "data/people/p_ulan_isakbekov.json"
   },
   {
     "id": "p_ulas_inac",
@@ -676,6 +693,11 @@
     "path": "data/people/p_ulla_lyttkens.json"
   },
   {
+    "id": "p_ulla_se",
+    "name": "Ulla Søe",
+    "path": "data/people/p_ulla_se.json"
+  },
+  {
     "id": "p_ulla_simonen",
     "name": "Ulla Simonen",
     "birth_year": 1964,
@@ -787,6 +809,12 @@
     "id": "p_ulrich_caspar",
     "name": "Ulrich Caspar",
     "path": "data/people/p_ulrich_caspar.json"
+  },
+  {
+    "id": "p_ulrich_cyran",
+    "name": "Ulrich Cyran",
+    "birth_year": 1955,
+    "path": "data/people/p_ulrich_cyran.json"
   },
   {
     "id": "p_ulrich_faulhaber",
@@ -1019,6 +1047,12 @@
     "path": "data/people/p_ulrike_krumbiegel.json"
   },
   {
+    "id": "p_ulrike_meinhof",
+    "name": "Ulrike Meinhof",
+    "birth_year": 1934,
+    "path": "data/people/p_ulrike_meinhof.json"
+  },
+  {
     "id": "p_ulrike_ottinger",
     "name": "Ulrike Ottinger",
     "birth_year": 1942,
@@ -1041,6 +1075,12 @@
     "name": "Ulrike Zimmermann",
     "birth_year": 1960,
     "path": "data/people/p_ulrike_zimmermann.json"
+  },
+  {
+    "id": "p_ulrikke_greve",
+    "name": "Ulrikke Greve",
+    "birth_year": 1940,
+    "path": "data/people/p_ulrikke_greve.json"
   },
   {
     "id": "p_ulrikke_hansen_dvigen",
@@ -1078,6 +1118,24 @@
     "path": "data/people/p_ulyana_lopatkina.json"
   },
   {
+    "id": "p_ulysse_klotz",
+    "name": "Ulysse Klotz",
+    "birth_year": 1952,
+    "path": "data/people/p_ulysse_klotz.json"
+  },
+  {
+    "id": "p_ulysses_fehmiju",
+    "name": "Ulysses Fehmiju",
+    "birth_year": 1968,
+    "path": "data/people/p_ulysses_fehmiju.json"
+  },
+  {
+    "id": "p_um_kijoon",
+    "name": "Um Ki-joon",
+    "birth_year": 1976,
+    "path": "data/people/p_um_kijoon.json"
+  },
+  {
     "id": "p_um_taegoo",
     "name": "Um Tae-goo",
     "birth_year": 1983,
@@ -1093,6 +1151,12 @@
     "id": "p_uma_maheswari",
     "name": "Uma Maheswari",
     "path": "data/people/p_uma_maheswari.json"
+  },
+  {
+    "id": "p_uma_tamil_actress",
+    "name": "Uma (Tamil actress)",
+    "birth_year": 1965,
+    "path": "data/people/p_uma_tamil_actress.json"
   },
   {
     "id": "p_uma_thurman",
@@ -1158,6 +1222,12 @@
     "name": "Umberto Smaila",
     "birth_year": 1950,
     "path": "data/people/p_umberto_smaila.json"
+  },
+  {
+    "id": "p_umberto_veronesi",
+    "name": "Umberto Veronesi",
+    "birth_year": 1925,
+    "path": "data/people/p_umberto_veronesi.json"
   },
   {
     "id": "p_umed_mirzoshirinov",
@@ -1486,6 +1556,11 @@
     "path": "data/people/p_urmie_plein.json"
   },
   {
+    "id": "p_urmila_bergdomaas",
+    "name": "Urmila Berg-Domaas",
+    "path": "data/people/p_urmila_bergdomaas.json"
+  },
+  {
     "id": "p_urmila_kanetkar_kothare",
     "name": "Urmila Kanetkar- Kothare",
     "birth_year": 1986,
@@ -1502,6 +1577,12 @@
     "name": "Urmila Unni",
     "birth_year": 1963,
     "path": "data/people/p_urmila_unni.json"
+  },
+  {
+    "id": "p_urna",
+    "name": "Urna",
+    "birth_year": 1967,
+    "path": "data/people/p_urna.json"
   },
   {
     "id": "p_uro_q_dela_cruz",
@@ -1622,6 +1703,12 @@
     "path": "data/people/p_ursula_geyerhopfe.json"
   },
   {
+    "id": "p_ursula_hopfnertabori",
+    "name": "Ursula Höpfner-Tabori",
+    "birth_year": 1949,
+    "path": "data/people/p_ursula_hopfnertabori.json"
+  },
+  {
     "id": "p_ursula_karusseit",
     "name": "Ursula Karusseit",
     "birth_year": 1939,
@@ -1662,6 +1749,12 @@
     "name": "Ursula Ofner",
     "birth_year": 1966,
     "path": "data/people/p_ursula_ofner.json"
+  },
+  {
+    "id": "p_ursula_pruneda",
+    "name": "Úrsula Pruneda",
+    "birth_year": 1971,
+    "path": "data/people/p_ursula_pruneda.json"
   },
   {
     "id": "p_ursula_reit",
@@ -1722,6 +1815,12 @@
     "name": "Urszula Grabowska",
     "birth_year": 1976,
     "path": "data/people/p_urszula_grabowska.json"
+  },
+  {
+    "id": "p_urszula_pontikos",
+    "name": "Urszula Pontikos",
+    "birth_year": 1975,
+    "path": "data/people/p_urszula_pontikos.json"
   },
   {
     "id": "p_urszula_urbaniak",
@@ -1794,6 +1893,12 @@
     "path": "data/people/p_usha_bachani.json"
   },
   {
+    "id": "p_usha_jadhav",
+    "name": "Usha Jadhav",
+    "birth_year": 1987,
+    "path": "data/people/p_usha_jadhav.json"
+  },
+  {
     "id": "p_usha_nadkarni",
     "name": "Usha Nadkarni",
     "birth_year": 1946,
@@ -1806,10 +1911,21 @@
     "path": "data/people/p_usha_uthup.json"
   },
   {
+    "id": "p_ushasie_chakraborty",
+    "name": "Ushasie Chakraborty",
+    "path": "data/people/p_ushasie_chakraborty.json"
+  },
+  {
     "id": "p_usher",
     "name": "Usher",
     "birth_year": 1978,
     "path": "data/people/p_usher.json"
+  },
+  {
+    "id": "p_usher_morgan",
+    "name": "Usher Morgan",
+    "birth_year": 1985,
+    "path": "data/people/p_usher_morgan.json"
   },
   {
     "id": "p_usun_yoon",
@@ -1998,5 +2114,10 @@
     "name": "Uygar Tamer",
     "birth_year": 1971,
     "path": "data/people/p_uygar_tamer.json"
+  },
+  {
+    "id": "p_uzi_james",
+    "name": "Uzi James",
+    "path": "data/people/p_uzi_james.json"
   }
 ]
