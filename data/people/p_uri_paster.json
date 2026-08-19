@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_uri_paster",
+  "name": "Uri Paster",
+  "external_ids": {
+    "wikidata": "Q12403610",
+    "imdb": "nm0664973"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1961
+}

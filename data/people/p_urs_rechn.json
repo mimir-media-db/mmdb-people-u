@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_urs_rechn",
+  "name": "Urs Rechn",
+  "external_ids": {
+    "wikidata": "Q2501346",
+    "imdb": "nm0714455"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}
