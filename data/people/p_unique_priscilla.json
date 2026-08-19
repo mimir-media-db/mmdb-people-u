@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_unique_priscilla",
+  "name": "Unique Priscilla",
+  "external_ids": {
+    "wikidata": "Q12523268",
+    "imdb": "nm2682461"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}
