@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_uma_feed",
+  "name": "Uma Feed",
+  "external_ids": {
+    "wikidata": "Q138498149",
+    "imdb": "nm7547446"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}
