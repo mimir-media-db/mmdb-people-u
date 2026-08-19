@@ -932,6 +932,12 @@
     "path": "data/people/p_uli_kick.json"
   },
   {
+    "id": "p_uli_krohm",
+    "name": "Uli Krohm",
+    "birth_year": 1947,
+    "path": "data/people/p_uli_krohm.json"
+  },
+  {
     "id": "p_uli_latukefu",
     "name": "Uli Latukefu",
     "birth_year": 1983,
@@ -1431,6 +1437,11 @@
     "path": "data/people/p_ulrik_wivel.json"
   },
   {
+    "id": "p_ulrika_backstrom",
+    "name": "Ulrika Bäckström",
+    "path": "data/people/p_ulrika_backstrom.json"
+  },
+  {
     "id": "p_ulrika_bengts",
     "name": "Ulrika Bengts",
     "birth_year": 1961,
@@ -1877,6 +1888,11 @@
     "path": "data/people/p_umesh_vinayak_kulkarni.json"
   },
   {
+    "id": "p_umid_khamdamov",
+    "name": "Umid Khamdamov",
+    "path": "data/people/p_umid_khamdamov.json"
+  },
+  {
     "id": "p_umie_aida",
     "name": "Umie Aida",
     "birth_year": 1973,
@@ -1927,6 +1943,12 @@
     "name": "Ümit Ülgen",
     "birth_year": 1971,
     "path": "data/people/p_umit_ulgen.json"
+  },
+  {
+    "id": "p_umit_uludag",
+    "name": "Ümit Uludağ",
+    "birth_year": 1978,
+    "path": "data/people/p_umit_uludag.json"
   },
   {
     "id": "p_umit_unal",
@@ -2219,6 +2241,12 @@
     "path": "data/people/p_urara_sen.json"
   },
   {
+    "id": "p_urassaya_sperbund",
+    "name": "Urassaya Sperbund",
+    "birth_year": 1993,
+    "path": "data/people/p_urassaya_sperbund.json"
+  },
+  {
     "id": "p_uraz_kayglaroglu",
     "name": "Uraz Kaygılaroğlu",
     "birth_year": 1987,
@@ -2243,6 +2271,12 @@
     "path": "data/people/p_urban_eldh.json"
   },
   {
+    "id": "p_urban_kuntaric",
+    "name": "Urban Kuntarič",
+    "birth_year": 1995,
+    "path": "data/people/p_urban_kuntaric.json"
+  },
+  {
     "id": "p_urbano_barberini",
     "name": "Urbano Barberini",
     "birth_year": 1961,
@@ -2253,6 +2287,12 @@
     "name": "Urbanus",
     "birth_year": 1949,
     "path": "data/people/p_urbanus.json"
+  },
+  {
+    "id": "p_urho_kekkonen",
+    "name": "Urho Kekkonen",
+    "birth_year": 1900,
+    "path": "data/people/p_urho_kekkonen.json"
   },
   {
     "id": "p_uri_avnery",
@@ -2354,6 +2394,12 @@
     "name": "Đurđija Cvetić",
     "birth_year": 1942,
     "path": "data/people/p_urija_cvetic.json"
+  },
+  {
+    "id": "p_urmai_gabor",
+    "name": "Urmai Gábor",
+    "birth_year": 1967,
+    "path": "data/people/p_urmai_gabor.json"
   },
   {
     "id": "p_urmas_eero_liiv",
@@ -2835,6 +2881,11 @@
     "path": "data/people/p_usha_nadkarni.json"
   },
   {
+    "id": "p_usha_naik",
+    "name": "Usha Naik",
+    "path": "data/people/p_usha_naik.json"
+  },
+  {
     "id": "p_usha_patel",
     "name": "Usha Patel",
     "path": "data/people/p_usha_patel.json"
@@ -2916,6 +2967,12 @@
     "path": "data/people/p_ute_emmerich.json"
   },
   {
+    "id": "p_ute_heidorn",
+    "name": "Ute Heidorn",
+    "birth_year": 1961,
+    "path": "data/people/p_ute_heidorn.json"
+  },
+  {
     "id": "p_ute_lemper",
     "name": "Ute Lemper",
     "birth_year": 1963,
@@ -2943,6 +3000,12 @@
     "id": "p_ute_werner",
     "name": "Ute Werner",
     "path": "data/people/p_ute_werner.json"
+  },
+  {
+    "id": "p_ute_wieckhorst",
+    "name": "Ute Wieckhorst",
+    "birth_year": 1970,
+    "path": "data/people/p_ute_wieckhorst.json"
   },
   {
     "id": "p_ute_wieland",
@@ -3168,6 +3231,18 @@
     "path": "data/people/p_uygar_tamer.json"
   },
   {
+    "id": "p_uzair_zaheer_khan",
+    "name": "Uzair Zaheer Khan",
+    "birth_year": 1973,
+    "path": "data/people/p_uzair_zaheer_khan.json"
+  },
+  {
+    "id": "p_uzee_usman",
+    "name": "Uzee Usman",
+    "birth_year": 1986,
+    "path": "data/people/p_uzee_usman.json"
+  },
+  {
     "id": "p_uzi_james",
     "name": "Uzi James",
     "path": "data/people/p_uzi_james.json"
@@ -3179,14 +3254,31 @@
     "path": "data/people/p_uzi_meshulam.json"
   },
   {
+    "id": "p_uzma_khan",
+    "name": "Uzma Khan",
+    "birth_year": 1987,
+    "path": "data/people/p_uzma_khan.json"
+  },
+  {
     "id": "p_uzo_aduba",
     "name": "Uzo Aduba",
     "birth_year": 1981,
     "path": "data/people/p_uzo_aduba.json"
   },
   {
+    "id": "p_uzodinma_umeh",
+    "name": "Uzodinma Umeh",
+    "path": "data/people/p_uzodinma_umeh.json"
+  },
+  {
     "id": "p_uzor_osimkpa",
     "name": "Uzor Osimkpa",
     "path": "data/people/p_uzor_osimkpa.json"
+  },
+  {
+    "id": "p_uzzal",
+    "name": "Uzzal",
+    "birth_year": 1945,
+    "path": "data/people/p_uzzal.json"
   }
 ]
