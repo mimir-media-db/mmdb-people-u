@@ -17,6 +17,12 @@
     "path": "data/people/p_ubaidulla_radzhabov.json"
   },
   {
+    "id": "p_ubaldo_de_lio",
+    "name": "Ubaldo de Lío",
+    "birth_year": 1929,
+    "path": "data/people/p_ubaldo_de_lio.json"
+  },
+  {
     "id": "p_uberto_pasolini",
     "name": "Uberto Pasolini",
     "birth_year": 1957,
@@ -111,6 +117,12 @@
     "name": "Udhayan",
     "birth_year": 1967,
     "path": "data/people/p_udhayan.json"
+  },
+  {
+    "id": "p_udhayanidhi_stalin",
+    "name": "Udhayanidhi Stalin",
+    "birth_year": 1977,
+    "path": "data/people/p_udhayanidhi_stalin.json"
   },
   {
     "id": "p_udhayathara",
@@ -414,6 +426,12 @@
     "path": "data/people/p_uldis_dumpis.json"
   },
   {
+    "id": "p_uldis_lieldidzs",
+    "name": "Uldis Lieldidžs",
+    "birth_year": 1933,
+    "path": "data/people/p_uldis_lieldidzs.json"
+  },
+  {
     "id": "p_uldis_steins",
     "name": "Uldis Šteins",
     "birth_year": 1935,
@@ -538,6 +556,12 @@
     "path": "data/people/p_uli_gaulke.json"
   },
   {
+    "id": "p_uli_kick",
+    "name": "Uli Kick",
+    "birth_year": 1957,
+    "path": "data/people/p_uli_kick.json"
+  },
+  {
     "id": "p_uli_m_schueppel",
     "name": "Uli M Schueppel",
     "birth_year": 1958,
@@ -619,6 +643,12 @@
     "path": "data/people/p_ulla_skoog.json"
   },
   {
+    "id": "p_ulla_tapaninen",
+    "name": "Ulla Tapaninen",
+    "birth_year": 1955,
+    "path": "data/people/p_ulla_tapaninen.json"
+  },
+  {
     "id": "p_ulla_wagner",
     "name": "Ulla Wagner",
     "birth_year": 1983,
@@ -641,6 +671,12 @@
     "name": "Üllar Saaremäe",
     "birth_year": 1969,
     "path": "data/people/p_ullar_saaremae.json"
+  },
+  {
+    "id": "p_ullariikka_koskela",
+    "name": "Ullariikka Koskela",
+    "birth_year": 1974,
+    "path": "data/people/p_ullariikka_koskela.json"
   },
   {
     "id": "p_ulle_bjrn_bengtsson",
@@ -683,6 +719,12 @@
     "name": "Ulli Pfau",
     "birth_year": 1950,
     "path": "data/people/p_ulli_pfau.json"
+  },
+  {
+    "id": "p_ully_artha",
+    "name": "Ully Artha",
+    "birth_year": 1953,
+    "path": "data/people/p_ully_artha.json"
   },
   {
     "id": "p_ulo_pikkov",
@@ -735,6 +777,12 @@
     "name": "Ulrich Köhler",
     "birth_year": 1969,
     "path": "data/people/p_ulrich_kohler.json"
+  },
+  {
+    "id": "p_ulrich_konig",
+    "name": "Ulrich König",
+    "birth_year": 1949,
+    "path": "data/people/p_ulrich_konig.json"
   },
   {
     "id": "p_ulrich_limmer",
@@ -840,6 +888,12 @@
     "name": "Ulrika Hansson",
     "birth_year": 1970,
     "path": "data/people/p_ulrika_hansson.json"
+  },
+  {
+    "id": "p_ulrika_kotajna",
+    "name": "Ulrika Kotajná",
+    "birth_year": 1971,
+    "path": "data/people/p_ulrika_kotajna.json"
   },
   {
     "id": "p_ulrike_arnold",
@@ -972,6 +1026,11 @@
     "path": "data/people/p_uma_thurman.json"
   },
   {
+    "id": "p_umar_gabr",
+    "name": "Umar Gabr",
+    "path": "data/people/p_umar_gabr.json"
+  },
+  {
     "id": "p_umashree",
     "name": "Umashree",
     "birth_year": 1957,
@@ -1026,10 +1085,27 @@
     "path": "data/people/p_umesh_mehra.json"
   },
   {
+    "id": "p_umesh_shukla",
+    "name": "Umesh Shukla",
+    "path": "data/people/p_umesh_shukla.json"
+  },
+  {
+    "id": "p_umesh_vinayak_kulkarni",
+    "name": "Umesh Vinayak Kulkarni",
+    "birth_year": 1976,
+    "path": "data/people/p_umesh_vinayak_kulkarni.json"
+  },
+  {
     "id": "p_umie_aida",
     "name": "Umie Aida",
     "birth_year": 1973,
     "path": "data/people/p_umie_aida.json"
+  },
+  {
+    "id": "p_umin_boya",
+    "name": "Umin Boya",
+    "birth_year": 1978,
+    "path": "data/people/p_umin_boya.json"
   },
   {
     "id": "p_umit_acar",
@@ -1061,6 +1137,18 @@
     "path": "data/people/p_umut_kurt.json"
   },
   {
+    "id": "p_umut_vardarl",
+    "name": "Umut Vardarlı",
+    "birth_year": 1986,
+    "path": "data/people/p_umut_vardarl.json"
+  },
+  {
+    "id": "p_una_celma",
+    "name": "Una Celma",
+    "birth_year": 1959,
+    "path": "data/people/p_una_celma.json"
+  },
+  {
     "id": "p_una_kay",
     "name": "Una Kay",
     "birth_year": 1933,
@@ -1071,6 +1159,12 @@
     "name": "Una Stubbs",
     "birth_year": 1937,
     "path": "data/people/p_una_stubbs.json"
+  },
+  {
+    "id": "p_unang",
+    "name": "Unang",
+    "birth_year": 1962,
+    "path": "data/people/p_unang.json"
   },
   {
     "id": "p_unax_ugalde",
@@ -1197,6 +1291,12 @@
     "path": "data/people/p_urban_bergsten.json"
   },
   {
+    "id": "p_urban_eldh",
+    "name": "Urban Eldh",
+    "birth_year": 1944,
+    "path": "data/people/p_urban_eldh.json"
+  },
+  {
     "id": "p_urbano_barberini",
     "name": "Urbano Barberini",
     "birth_year": 1961,
@@ -1257,6 +1357,12 @@
     "path": "data/people/p_uri_sabag.json"
   },
   {
+    "id": "p_uriah_shelton",
+    "name": "Uriah Shelton",
+    "birth_year": 1997,
+    "path": "data/people/p_uriah_shelton.json"
+  },
+  {
     "id": "p_uriel_emil",
     "name": "Uriel Emil",
     "birth_year": 1975,
@@ -1293,16 +1399,33 @@
     "path": "data/people/p_urmila_unni.json"
   },
   {
+    "id": "p_uro_q_dela_cruz",
+    "name": "Uro Q. Dela Cruz",
+    "path": "data/people/p_uro_q_dela_cruz.json"
+  },
+  {
     "id": "p_uro_utjesanovic_19402013",
     "name": "Đuro Utješanović (1940-2013)",
     "birth_year": 1940,
     "path": "data/people/p_uro_utjesanovic_19402013.json"
   },
   {
+    "id": "p_uros_stojanovic",
+    "name": "Uroš Stojanović",
+    "birth_year": 1972,
+    "path": "data/people/p_uros_stojanovic.json"
+  },
+  {
     "id": "p_uros_uric",
     "name": "Uroš Đurić",
     "birth_year": 1964,
     "path": "data/people/p_uros_uric.json"
+  },
+  {
+    "id": "p_urs_althaus",
+    "name": "Urs Althaus",
+    "birth_year": 1959,
+    "path": "data/people/p_urs_althaus.json"
   },
   {
     "id": "p_urs_egger",
@@ -1359,6 +1482,12 @@
     "path": "data/people/p_ursula_buschhorn.json"
   },
   {
+    "id": "p_ursula_dirichs",
+    "name": "Ursula Dirichs",
+    "birth_year": 1934,
+    "path": "data/people/p_ursula_dirichs.json"
+  },
+  {
     "id": "p_ursula_geyerhopfe",
     "name": "Ursula Geyer-Hopfe",
     "birth_year": 1924,
@@ -1411,6 +1540,12 @@
     "name": "Ursula Renneke",
     "birth_year": 1975,
     "path": "data/people/p_ursula_renneke.json"
+  },
+  {
+    "id": "p_ursula_rucker",
+    "name": "Ursula Rucker",
+    "birth_year": 1999,
+    "path": "data/people/p_ursula_rucker.json"
   },
   {
     "id": "p_ursula_schucht",
@@ -1519,6 +1654,12 @@
     "path": "data/people/p_usha_bachani.json"
   },
   {
+    "id": "p_usha_nadkarni",
+    "name": "Usha Nadkarni",
+    "birth_year": 1946,
+    "path": "data/people/p_usha_nadkarni.json"
+  },
+  {
     "id": "p_usha_uthup",
     "name": "Usha Uthup",
     "birth_year": 1947,
@@ -1564,6 +1705,12 @@
     "name": "Ute Wieland",
     "birth_year": 1957,
     "path": "data/people/p_ute_wieland.json"
+  },
+  {
+    "id": "p_uttam_akash",
+    "name": "Uttam Akash",
+    "birth_year": 1955,
+    "path": "data/people/p_uttam_akash.json"
   },
   {
     "id": "p_uttam_mohanty",
@@ -1617,6 +1764,11 @@
     "name": "Uwe Fellensiek",
     "birth_year": 1955,
     "path": "data/people/p_uwe_fellensiek.json"
+  },
+  {
+    "id": "p_uwe_grimm",
+    "name": "Uwe Grimm",
+    "path": "data/people/p_uwe_grimm.json"
   },
   {
     "id": "p_uwe_janson",
@@ -1676,5 +1828,11 @@
     "name": "Uxía Blanco",
     "birth_year": 1951,
     "path": "data/people/p_uxia_blanco.json"
+  },
+  {
+    "id": "p_uygar_tamer",
+    "name": "Uygar Tamer",
+    "birth_year": 1971,
+    "path": "data/people/p_uygar_tamer.json"
   }
 ]
