@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_uri_avnery",
+  "name": "Uri Avnery",
+  "external_ids": {
+    "wikidata": "Q325679",
+    "imdb": "nm1231440"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1923,
+  "death_year": 2018
+}
