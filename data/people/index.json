@@ -719,6 +719,12 @@
     "path": "data/people/p_ukasz_nowicki.json"
   },
   {
+    "id": "p_ukasz_orbitowski",
+    "name": "Łukasz Orbitowski",
+    "birth_year": 1977,
+    "path": "data/people/p_ukasz_orbitowski.json"
+  },
+  {
     "id": "p_ukasz_palkowski",
     "name": "Łukasz Palkowski",
     "birth_year": 1976,
@@ -735,6 +741,12 @@
     "name": "Łukasz Simlat",
     "birth_year": 1977,
     "path": "data/people/p_ukasz_simlat.json"
+  },
+  {
+    "id": "p_ukasz_szczepanowski",
+    "name": "Łukasz Szczepanowski",
+    "birth_year": 1994,
+    "path": "data/people/p_ukasz_szczepanowski.json"
   },
   {
     "id": "p_ukasz_urbanik",
@@ -1803,6 +1815,12 @@
     "path": "data/people/p_ultimo_dragon.json"
   },
   {
+    "id": "p_uluc_bayraktar",
+    "name": "Uluç Bayraktar",
+    "birth_year": 1973,
+    "path": "data/people/p_uluc_bayraktar.json"
+  },
+  {
     "id": "p_ulugbek_qodirov",
     "name": "Ulug’bek Qodirov",
     "birth_year": 1983,
@@ -2047,6 +2065,11 @@
     "path": "data/people/p_umberto_smaila.json"
   },
   {
+    "id": "p_umberto_spinazzola",
+    "name": "Umberto Spinazzola",
+    "path": "data/people/p_umberto_spinazzola.json"
+  },
+  {
     "id": "p_umberto_veronesi",
     "name": "Umberto Veronesi",
     "birth_year": 1925,
@@ -2217,6 +2240,12 @@
     "name": "Una Celma",
     "birth_year": 1959,
     "path": "data/people/p_una_celma.json"
+  },
+  {
+    "id": "p_una_gunjak",
+    "name": "Una Gunjak",
+    "birth_year": 1986,
+    "path": "data/people/p_una_gunjak.json"
   },
   {
     "id": "p_una_kay",
@@ -2644,6 +2673,11 @@
     "path": "data/people/p_uriah_arnhem.json"
   },
   {
+    "id": "p_uriah_havertong",
+    "name": "Uriah Havertong",
+    "path": "data/people/p_uriah_havertong.json"
+  },
+  {
     "id": "p_uriah_shelton",
     "name": "Uriah Shelton",
     "birth_year": 1997,
@@ -2660,6 +2694,12 @@
     "name": "Đurđija Cvetić",
     "birth_year": 1942,
     "path": "data/people/p_urija_cvetic.json"
+  },
+  {
+    "id": "p_urko_olazabal",
+    "name": "Urko Olazabal",
+    "birth_year": 1977,
+    "path": "data/people/p_urko_olazabal.json"
   },
   {
     "id": "p_urmai_gabor",
@@ -2791,6 +2831,12 @@
     "name": "Urs Fabian Winiger",
     "birth_year": 1975,
     "path": "data/people/p_urs_fabian_winiger.json"
+  },
+  {
+    "id": "p_urs_gredig",
+    "name": "Urs Gredig",
+    "birth_year": 1970,
+    "path": "data/people/p_urs_gredig.json"
   },
   {
     "id": "p_urs_jucker",
@@ -3133,6 +3179,12 @@
     "path": "data/people/p_usayd_younis.json"
   },
   {
+    "id": "p_uschi_bruning",
+    "name": "Uschi Brüning",
+    "birth_year": 1947,
+    "path": "data/people/p_uschi_bruning.json"
+  },
+  {
     "id": "p_uschi_ferstl",
     "name": "Uschi Ferstl",
     "birth_year": 1967,
@@ -3247,6 +3299,11 @@
     "path": "data/people/p_usman_ally.json"
   },
   {
+    "id": "p_usman_sediqi",
+    "name": "Usman Sediqi",
+    "path": "data/people/p_usman_sediqi.json"
+  },
+  {
     "id": "p_usnie_khalilova",
     "name": "Usnie Khalilova",
     "path": "data/people/p_usnie_khalilova.json"
@@ -3268,6 +3325,11 @@
     "name": "Uta Arning",
     "birth_year": 1978,
     "path": "data/people/p_uta_arning.json"
+  },
+  {
+    "id": "p_uta_beria",
+    "name": "Uta Beria",
+    "path": "data/people/p_uta_beria.json"
   },
   {
     "id": "p_uta_taeger",
@@ -3368,6 +3430,12 @@
     "name": "Utkarsh Ambudkar",
     "birth_year": 1983,
     "path": "data/people/p_utkarsh_ambudkar.json"
+  },
+  {
+    "id": "p_utkarsh_sharma",
+    "name": "Utkarsh Sharma",
+    "birth_year": 1994,
+    "path": "data/people/p_utkarsh_sharma.json"
   },
   {
     "id": "p_utpal_das",
@@ -3573,6 +3641,12 @@
     "path": "data/people/p_uwe_steimle.json"
   },
   {
+    "id": "p_uwe_steinmetz",
+    "name": "Uwe Steinmetz",
+    "birth_year": 1974,
+    "path": "data/people/p_uwe_steinmetz.json"
+  },
+  {
     "id": "p_uwedag_berlin",
     "name": "Uwe-Dag Berlin",
     "birth_year": 1957,
@@ -3588,6 +3662,12 @@
     "name": "Uxía Blanco",
     "birth_year": 1951,
     "path": "data/people/p_uxia_blanco.json"
+  },
+  {
+    "id": "p_uyaiedu_ikpeetim",
+    "name": "Uyaiedu Ikpe-Etim",
+    "birth_year": 1988,
+    "path": "data/people/p_uyaiedu_ikpeetim.json"
   },
   {
     "id": "p_uygar_tamer",
