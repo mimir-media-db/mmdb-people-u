@@ -131,6 +131,12 @@
     "path": "data/people/p_uche_ogbodo.json"
   },
   {
+    "id": "p_uchechi_treasure_okonkwo",
+    "name": "Uchechi Treasure Okonkwo",
+    "birth_year": 2010,
+    "path": "data/people/p_uchechi_treasure_okonkwo.json"
+  },
+  {
     "id": "p_ucie_nurul",
     "name": "Ucie Nurul",
     "birth_year": 1973,
@@ -424,6 +430,11 @@
     "path": "data/people/p_ugis_olte.json"
   },
   {
+    "id": "p_ugis_riekstins",
+    "name": "Uģis Riekstiņš",
+    "path": "data/people/p_ugis_riekstins.json"
+  },
+  {
     "id": "p_ugo_attanasio",
     "name": "Ugo Attanasio",
     "birth_year": 1887,
@@ -598,6 +609,12 @@
     "name": "Uhm Tae-woong",
     "birth_year": 1974,
     "path": "data/people/p_uhm_taewoong.json"
+  },
+  {
+    "id": "p_ui_mihara",
+    "name": "Ui Mihara",
+    "birth_year": 2002,
+    "path": "data/people/p_ui_mihara.json"
   },
   {
     "id": "p_uisenma_borchu",
@@ -2082,6 +2099,11 @@
     "path": "data/people/p_umed_mirzoshirinov.json"
   },
   {
+    "id": "p_umer_aalam",
+    "name": "Umer Aalam",
+    "path": "data/people/p_umer_aalam.json"
+  },
+  {
     "id": "p_umesh_bist",
     "name": "Umesh Bist",
     "path": "data/people/p_umesh_bist.json"
@@ -3139,6 +3161,12 @@
     "path": "data/people/p_urwa_tul_wusqa.json"
   },
   {
+    "id": "p_urzula_barba_hopfner",
+    "name": "Urzula Barba Hopfner",
+    "birth_year": 1982,
+    "path": "data/people/p_urzula_barba_hopfner.json"
+  },
+  {
     "id": "p_us_conradi",
     "name": "Us Conradi",
     "birth_year": 1927,
@@ -3252,6 +3280,12 @@
     "path": "data/people/p_usha_ramanathan.json"
   },
   {
+    "id": "p_usha_seamkhum",
+    "name": "Usha Seamkhum",
+    "birth_year": 1946,
+    "path": "data/people/p_usha_seamkhum.json"
+  },
+  {
     "id": "p_usha_uthup",
     "name": "Usha Uthup",
     "birth_year": 1947,
@@ -3297,6 +3331,17 @@
     "name": "Usman Ally",
     "birth_year": 1982,
     "path": "data/people/p_usman_ally.json"
+  },
+  {
+    "id": "p_usman_mukhtar",
+    "name": "Usman Mukhtar",
+    "birth_year": 1985,
+    "path": "data/people/p_usman_mukhtar.json"
+  },
+  {
+    "id": "p_usman_riaz",
+    "name": "Usman Riaz",
+    "path": "data/people/p_usman_riaz.json"
   },
   {
     "id": "p_usman_sediqi",
