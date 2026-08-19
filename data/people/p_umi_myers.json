@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_umi_myers",
+  "name": "Umi Myers",
+  "external_ids": {
+    "wikidata": "Q131601611",
+    "imdb": "nm13646920"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2000
+}
