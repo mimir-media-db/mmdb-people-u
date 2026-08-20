@@ -891,6 +891,12 @@
     "path": "data/people/p_uladzimir_kolas.json"
   },
   {
+    "id": "p_uladzimir_maroz",
+    "name": "Uladzimir Maroz",
+    "birth_year": 1953,
+    "path": "data/people/p_uladzimir_maroz.json"
+  },
+  {
     "id": "p_uladzimir_sciapan",
     "name": "Uladzimir Sciapan",
     "birth_year": 1958,
