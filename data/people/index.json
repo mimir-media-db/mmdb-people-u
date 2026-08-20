@@ -442,6 +442,12 @@
     "path": "data/people/p_uga_carlini.json"
   },
   {
+    "id": "p_ugezu_j_ugezu",
+    "name": "Ugezu J. Ugezu",
+    "birth_year": 1970,
+    "path": "data/people/p_ugezu_j_ugezu.json"
+  },
+  {
     "id": "p_ugis_olte",
     "name": "Uģis Olte",
     "birth_year": 1980,
@@ -782,6 +788,12 @@
     "name": "Łukasz Lewandowski",
     "birth_year": 1974,
     "path": "data/people/p_ukasz_lewandowski.json"
+  },
+  {
+    "id": "p_ukasz_m_maciejewski",
+    "name": "Łukasz M. Maciejewski",
+    "birth_year": 1980,
+    "path": "data/people/p_ukasz_m_maciejewski.json"
   },
   {
     "id": "p_ukasz_nowicki",
@@ -2212,6 +2224,12 @@
     "name": "Umar Syarief",
     "birth_year": 1985,
     "path": "data/people/p_umar_syarief.json"
+  },
+  {
+    "id": "p_umashanker_singh",
+    "name": "Umashanker Singh",
+    "birth_year": 1940,
+    "path": "data/people/p_umashanker_singh.json"
   },
   {
     "id": "p_umashree",
