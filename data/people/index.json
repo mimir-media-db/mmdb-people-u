@@ -302,6 +302,11 @@
     "path": "data/people/p_udi_zamberg.json"
   },
   {
+    "id": "p_udit_guru",
+    "name": "Udit Guru",
+    "path": "data/people/p_udit_guru.json"
+  },
+  {
     "id": "p_udita_goswami",
     "name": "Udita Goswami",
     "birth_year": 1984,
