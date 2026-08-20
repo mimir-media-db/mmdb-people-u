@@ -2429,6 +2429,12 @@
     "path": "data/people/p_unai_aranzadi.json"
   },
   {
+    "id": "p_unai_iturriaga",
+    "name": "Unai Iturriaga",
+    "birth_year": 1974,
+    "path": "data/people/p_unai_iturriaga.json"
+  },
+  {
     "id": "p_unal_silver",
     "name": "Ünal Silver",
     "birth_year": 1948,
