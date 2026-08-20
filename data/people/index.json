@@ -3825,6 +3825,12 @@
     "path": "data/people/p_ute_emmerich.json"
   },
   {
+    "id": "p_ute_engelhardt",
+    "name": "Ute Engelhardt",
+    "birth_year": 1956,
+    "path": "data/people/p_ute_engelhardt.json"
+  },
+  {
     "id": "p_ute_heidorn",
     "name": "Ute Heidorn",
     "birth_year": 1961,
