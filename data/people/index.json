@@ -903,6 +903,12 @@
     "path": "data/people/p_uladzimir_sciapan.json"
   },
   {
+    "id": "p_uladzimir_tratstsyakow",
+    "name": "Uladzimir Tratstsyakow",
+    "birth_year": 1954,
+    "path": "data/people/p_uladzimir_tratstsyakow.json"
+  },
+  {
     "id": "p_uladzimir_yankowski",
     "name": "Uladzimir Yankowski",
     "birth_year": 1960,
@@ -1259,6 +1265,11 @@
     "name": "Uli Sternberg",
     "birth_year": 1974,
     "path": "data/people/p_uli_sternberg.json"
+  },
+  {
+    "id": "p_uliano_greca",
+    "name": "Uliano Greca",
+    "path": "data/people/p_uliano_greca.json"
   },
   {
     "id": "p_ulises_celestino",
