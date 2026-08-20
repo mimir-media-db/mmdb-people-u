@@ -665,6 +665,12 @@
     "path": "data/people/p_ui_mihara.json"
   },
   {
+    "id": "p_uiko_miura",
+    "name": "Uiko Miura",
+    "birth_year": 1973,
+    "path": "data/people/p_uiko_miura.json"
+  },
+  {
     "id": "p_uisenma_borchu",
     "name": "Uisenma Borchu",
     "birth_year": 1984,
