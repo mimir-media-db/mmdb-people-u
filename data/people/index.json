@@ -430,6 +430,12 @@
     "path": "data/people/p_ugis_olte.json"
   },
   {
+    "id": "p_ugis_praulins",
+    "name": "Uģis Prauliņš",
+    "birth_year": 1957,
+    "path": "data/people/p_ugis_praulins.json"
+  },
+  {
     "id": "p_ugis_riekstins",
     "name": "Uģis Riekstiņš",
     "path": "data/people/p_ugis_riekstins.json"
@@ -1015,6 +1021,12 @@
     "id": "p_ulf_samuelsson",
     "name": "Ulf Samuelsson",
     "path": "data/people/p_ulf_samuelsson.json"
+  },
+  {
+    "id": "p_ulf_stark",
+    "name": "Ulf Stark",
+    "birth_year": 1944,
+    "path": "data/people/p_ulf_stark.json"
   },
   {
     "id": "p_ulf_stenberg",
@@ -2069,6 +2081,12 @@
     "name": "Umberto Carteni",
     "birth_year": 1969,
     "path": "data/people/p_umberto_carteni.json"
+  },
+  {
+    "id": "p_umberto_contarello",
+    "name": "Umberto Contarello",
+    "birth_year": 1958,
+    "path": "data/people/p_umberto_contarello.json"
   },
   {
     "id": "p_umberto_eco",
@@ -3610,6 +3628,12 @@
     "name": "Uttam Akash",
     "birth_year": 1955,
     "path": "data/people/p_uttam_akash.json"
+  },
+  {
+    "id": "p_uttam_gada",
+    "name": "Uttam Gada",
+    "birth_year": 1948,
+    "path": "data/people/p_uttam_gada.json"
   },
   {
     "id": "p_uttam_mohanty",
