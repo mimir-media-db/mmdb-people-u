@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_uri_brauner",
+  "name": "Uri Brauner",
+  "external_ids": {
+    "wikidata": "Q30526925",
+    "imdb": "nm2646365"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1979
+}
