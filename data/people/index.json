@@ -820,6 +820,12 @@
     "path": "data/people/p_ukasz_palkowski.json"
   },
   {
+    "id": "p_ukasz_pieprzyk",
+    "name": "Łukasz Pieprzyk",
+    "birth_year": 1984,
+    "path": "data/people/p_ukasz_pieprzyk.json"
+  },
+  {
     "id": "p_ukasz_pruchniewicz",
     "name": "Łukasz Pruchniewicz",
     "birth_year": 1980,
@@ -2884,6 +2890,12 @@
     "name": "Urbanus",
     "birth_year": 1949,
     "path": "data/people/p_urbanus.json"
+  },
+  {
+    "id": "p_ureha_shimada",
+    "name": "Ureha Shimada",
+    "birth_year": 1974,
+    "path": "data/people/p_ureha_shimada.json"
   },
   {
     "id": "p_urho_kekkonen",
