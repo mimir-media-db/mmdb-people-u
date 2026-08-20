@@ -958,6 +958,12 @@
     "path": "data/people/p_ulf_brunnberg.json"
   },
   {
+    "id": "p_ulf_dageby",
+    "name": "Ulf Dageby",
+    "birth_year": 1944,
+    "path": "data/people/p_ulf_dageby.json"
+  },
+  {
     "id": "p_ulf_eklund",
     "name": "Ulf Eklund",
     "birth_year": 1951,
@@ -992,6 +998,12 @@
     "name": "Ulf Israel",
     "birth_year": 1949,
     "path": "data/people/p_ulf_israel.json"
+  },
+  {
+    "id": "p_ulf_jansson",
+    "name": "Ulf Jansson",
+    "birth_year": 1950,
+    "path": "data/people/p_ulf_jansson.json"
   },
   {
     "id": "p_ulf_kirsten",
@@ -2559,6 +2571,12 @@
     "name": "Uno Larsson",
     "birth_year": 1893,
     "path": "data/people/p_uno_larsson.json"
+  },
+  {
+    "id": "p_uno_naissoo",
+    "name": "Uno Nai͏ssoo",
+    "birth_year": 1928,
+    "path": "data/people/p_uno_naissoo.json"
   },
   {
     "id": "p_unto_helo",
