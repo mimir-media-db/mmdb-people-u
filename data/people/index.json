@@ -297,6 +297,12 @@
     "path": "data/people/p_udita_goswami.json"
   },
   {
+    "id": "p_udo_jurgens",
+    "name": "Udo Jürgens",
+    "birth_year": 1934,
+    "path": "data/people/p_udo_jurgens.json"
+  },
+  {
     "id": "p_udo_kier",
     "name": "Udo Kier",
     "birth_year": 1944,
@@ -325,6 +331,12 @@
     "name": "Udo Schenk",
     "birth_year": 1953,
     "path": "data/people/p_udo_schenk.json"
+  },
+  {
+    "id": "p_udo_schobel",
+    "name": "Udo Schöbel",
+    "birth_year": 1961,
+    "path": "data/people/p_udo_schobel.json"
   },
   {
     "id": "p_udo_suzuki",
@@ -439,6 +451,12 @@
     "id": "p_ugis_riekstins",
     "name": "Uģis Riekstiņš",
     "path": "data/people/p_ugis_riekstins.json"
+  },
+  {
+    "id": "p_ugljesa_sajtinac",
+    "name": "Uglješa Šajtinac",
+    "birth_year": 1971,
+    "path": "data/people/p_ugljesa_sajtinac.json"
   },
   {
     "id": "p_ugo_attanasio",
@@ -2007,6 +2025,12 @@
     "name": "Ulyana Lopatkina",
     "birth_year": 1973,
     "path": "data/people/p_ulyana_lopatkina.json"
+  },
+  {
+    "id": "p_ulyana_shilkina",
+    "name": "Ulyana Shilkina",
+    "birth_year": 1970,
+    "path": "data/people/p_ulyana_shilkina.json"
   },
   {
     "id": "p_ulyana_vaskovich",
