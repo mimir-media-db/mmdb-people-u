@@ -2958,6 +2958,12 @@
     "path": "data/people/p_uri_hochman.json"
   },
   {
+    "id": "p_uri_katz",
+    "name": "Uri Katz",
+    "birth_year": 1971,
+    "path": "data/people/p_uri_katz.json"
+  },
+  {
     "id": "p_uri_klauzner",
     "name": "Uri Klauzner",
     "birth_year": 1963,
