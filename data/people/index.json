@@ -447,6 +447,12 @@
     "path": "data/people/p_ugo_broussot.json"
   },
   {
+    "id": "p_ugo_chiti",
+    "name": "Ugo Chiti",
+    "birth_year": 1943,
+    "path": "data/people/p_ugo_chiti.json"
+  },
+  {
     "id": "p_ugo_conti",
     "name": "Ugo Conti",
     "birth_year": 1955,
@@ -766,6 +772,12 @@
     "path": "data/people/p_ukasz_szczepanowski.json"
   },
   {
+    "id": "p_ukasz_targosz",
+    "name": "Łukasz Targosz",
+    "birth_year": 1977,
+    "path": "data/people/p_ukasz_targosz.json"
+  },
+  {
     "id": "p_ukasz_urbanik",
     "name": "Łukasz Urbanik",
     "path": "data/people/p_ukasz_urbanik.json"
@@ -986,6 +998,12 @@
     "name": "Ulf Larsson",
     "birth_year": 1956,
     "path": "data/people/p_ulf_larsson.json"
+  },
+  {
+    "id": "p_ulf_leo_sommer",
+    "name": "Ulf Leo Sommer",
+    "birth_year": 1970,
+    "path": "data/people/p_ulf_leo_sommer.json"
   },
   {
     "id": "p_ulf_malmros",
@@ -1403,6 +1421,12 @@
     "path": "data/people/p_ulrich_caspar.json"
   },
   {
+    "id": "p_ulrich_chaussy",
+    "name": "Ulrich Chaussy",
+    "birth_year": 1951,
+    "path": "data/people/p_ulrich_chaussy.json"
+  },
+  {
     "id": "p_ulrich_cyran",
     "name": "Ulrich Cyran",
     "birth_year": 1955,
@@ -1519,6 +1543,12 @@
     "name": "Ulrich Noethen",
     "birth_year": 1959,
     "path": "data/people/p_ulrich_noethen.json"
+  },
+  {
+    "id": "p_ulrich_peltzer",
+    "name": "Ulrich Peltzer",
+    "birth_year": 1956,
+    "path": "data/people/p_ulrich_peltzer.json"
   },
   {
     "id": "p_ulrich_pleitgen",
@@ -2088,6 +2118,12 @@
     "path": "data/people/p_umberto_sardella.json"
   },
   {
+    "id": "p_umberto_scipione",
+    "name": "Umberto Scipione",
+    "birth_year": 1960,
+    "path": "data/people/p_umberto_scipione.json"
+  },
+  {
     "id": "p_umberto_smaila",
     "name": "Umberto Smaila",
     "birth_year": 1950,
@@ -2437,6 +2473,12 @@
     "path": "data/people/p_unni_mukundan.json"
   },
   {
+    "id": "p_unni_r",
+    "name": "Unni R.",
+    "birth_year": 1971,
+    "path": "data/people/p_unni_r.json"
+  },
+  {
     "id": "p_unni_straume",
     "name": "Unni Straume",
     "birth_year": 1955,
@@ -2463,6 +2505,12 @@
     "name": "Unnur Ösp Stefánsdóttir",
     "birth_year": 1976,
     "path": "data/people/p_unnur_osp_stefansdottir.json"
+  },
+  {
+    "id": "p_uno_helmerson",
+    "name": "Uno Helmerson",
+    "birth_year": 1977,
+    "path": "data/people/p_uno_helmerson.json"
   },
   {
     "id": "p_uno_larsson",
@@ -2994,6 +3042,12 @@
     "name": "Ursula Geyer-Hopfe",
     "birth_year": 1924,
     "path": "data/people/p_ursula_geyerhopfe.json"
+  },
+  {
+    "id": "p_ursula_gruber",
+    "name": "Ursula Gruber",
+    "birth_year": 1970,
+    "path": "data/people/p_ursula_gruber.json"
   },
   {
     "id": "p_ursula_hopfnertabori",
@@ -3562,6 +3616,12 @@
     "name": "Uttam Mohanty",
     "birth_year": 1958,
     "path": "data/people/p_uttam_mohanty.json"
+  },
+  {
+    "id": "p_uttam_singh",
+    "name": "Uttam Singh",
+    "birth_year": 1948,
+    "path": "data/people/p_uttam_singh.json"
   },
   {
     "id": "p_uttar_kumar",
