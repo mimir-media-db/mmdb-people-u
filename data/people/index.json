@@ -1107,6 +1107,12 @@
     "path": "data/people/p_ulf_synnerholm.json"
   },
   {
+    "id": "p_ulf_turesson",
+    "name": "Ulf Turesson",
+    "birth_year": 1967,
+    "path": "data/people/p_ulf_turesson.json"
+  },
+  {
     "id": "p_ulf_von_strauss",
     "name": "Ulf von Strauss",
     "birth_year": 1947,
@@ -3326,6 +3332,11 @@
     "name": "Ursula Strauss",
     "birth_year": 1974,
     "path": "data/people/p_ursula_strauss.json"
+  },
+  {
+    "id": "p_ursula_vilca",
+    "name": "Úrsula Vilca",
+    "path": "data/people/p_ursula_vilca.json"
   },
   {
     "id": "p_ursula_werner",
