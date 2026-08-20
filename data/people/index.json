@@ -3709,6 +3709,12 @@
     "path": "data/people/p_uta_briesewitz.json"
   },
   {
+    "id": "p_uta_kolano",
+    "name": "Uta Kolano",
+    "birth_year": 1965,
+    "path": "data/people/p_uta_kolano.json"
+  },
+  {
     "id": "p_uta_taeger",
     "name": "Uta Taeger",
     "birth_year": 1940,
@@ -3813,6 +3819,11 @@
     "name": "Utkarsh Sharma",
     "birth_year": 1994,
     "path": "data/people/p_utkarsh_sharma.json"
+  },
+  {
+    "id": "p_utkarshini_vashishtha",
+    "name": "Utkarshini Vashishtha",
+    "path": "data/people/p_utkarshini_vashishtha.json"
   },
   {
     "id": "p_utpal_das",
