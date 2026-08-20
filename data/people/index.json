@@ -57,6 +57,11 @@
     "path": "data/people/p_ubaldo_righetti.json"
   },
   {
+    "id": "p_uberko",
+    "name": "Uberko",
+    "path": "data/people/p_uberko.json"
+  },
+  {
     "id": "p_uberto_pasolini",
     "name": "Uberto Pasolini",
     "birth_year": 1957,
@@ -788,6 +793,12 @@
     "id": "p_ukasz_kowalski",
     "name": "Łukasz Kowalski",
     "path": "data/people/p_ukasz_kowalski.json"
+  },
+  {
+    "id": "p_ukasz_lach",
+    "name": "Łukasz Lach",
+    "birth_year": 1982,
+    "path": "data/people/p_ukasz_lach.json"
   },
   {
     "id": "p_ukasz_lewandowski",
@@ -2674,6 +2685,11 @@
     "name": "Unnati Davara",
     "birth_year": 1989,
     "path": "data/people/p_unnati_davara.json"
+  },
+  {
+    "id": "p_unni_elayaraja",
+    "name": "Unni Elayaraja",
+    "path": "data/people/p_unni_elayaraja.json"
   },
   {
     "id": "p_unni_lalu",
