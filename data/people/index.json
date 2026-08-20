@@ -388,6 +388,12 @@
     "path": "data/people/p_udyakanth.json"
   },
   {
+    "id": "p_uele_lamore",
+    "name": "Uèle Lamore",
+    "birth_year": 1993,
+    "path": "data/people/p_uele_lamore.json"
+  },
+  {
     "id": "p_ueli_jaggi",
     "name": "Ueli Jäggi",
     "birth_year": 1954,
@@ -1437,6 +1443,12 @@
     "name": "Ulla Wagner",
     "birth_year": 1983,
     "path": "data/people/p_ulla_wagner.json"
+  },
+  {
+    "id": "p_ulla_ziemann",
+    "name": "Ulla Ziemann",
+    "birth_year": 1968,
+    "path": "data/people/p_ulla_ziemann.json"
   },
   {
     "id": "p_ullabritt_horn",
@@ -3195,6 +3207,12 @@
     "name": "Urs Bosshardt",
     "birth_year": 1953,
     "path": "data/people/p_urs_bosshardt.json"
+  },
+  {
+    "id": "p_urs_buhler",
+    "name": "Urs Bühler",
+    "birth_year": 1959,
+    "path": "data/people/p_urs_buhler.json"
   },
   {
     "id": "p_urs_egger",
