@@ -189,6 +189,12 @@
     "path": "data/people/p_uday_prakash.json"
   },
   {
+    "id": "p_uday_shankar",
+    "name": "Uday Shankar",
+    "birth_year": 1900,
+    "path": "data/people/p_uday_shankar.json"
+  },
+  {
     "id": "p_uday_subba",
     "name": "Uday Subba",
     "path": "data/people/p_uday_subba.json"
@@ -1146,6 +1152,12 @@
     "name": "Uli Bauer",
     "birth_year": 1956,
     "path": "data/people/p_uli_bauer.json"
+  },
+  {
+    "id": "p_uli_bree",
+    "name": "Uli Brée",
+    "birth_year": 1963,
+    "path": "data/people/p_uli_bree.json"
   },
   {
     "id": "p_uli_decker",
