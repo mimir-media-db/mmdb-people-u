@@ -917,6 +917,12 @@
     "path": "data/people/p_uldis_lieldidzs.json"
   },
   {
+    "id": "p_uldis_marhilevics",
+    "name": "Uldis Marhilēvičs",
+    "birth_year": 1957,
+    "path": "data/people/p_uldis_marhilevics.json"
+  },
+  {
     "id": "p_uldis_steins",
     "name": "Uldis Šteins",
     "birth_year": 1935,
@@ -1016,6 +1022,12 @@
     "name": "Ulf Malmros",
     "birth_year": 1965,
     "path": "data/people/p_ulf_malmros.json"
+  },
+  {
+    "id": "p_ulf_ryberg",
+    "name": "Ulf Ryberg",
+    "birth_year": 1947,
+    "path": "data/people/p_ulf_ryberg.json"
   },
   {
     "id": "p_ulf_samuelsson",
@@ -1315,6 +1327,12 @@
     "path": "data/people/p_ullabritta_cargin.json"
   },
   {
+    "id": "p_ullacarin_nyquist",
+    "name": "Ulla-Carin Nyquist",
+    "birth_year": 1954,
+    "path": "data/people/p_ullacarin_nyquist.json"
+  },
+  {
     "id": "p_ullar_saaremae",
     "name": "Üllar Saaremäe",
     "birth_year": 1969,
@@ -1567,6 +1585,12 @@
     "name": "Ulrich Pleitgen",
     "birth_year": 1946,
     "path": "data/people/p_ulrich_pleitgen.json"
+  },
+  {
+    "id": "p_ulrich_reuter",
+    "name": "Ulrich Reuter",
+    "birth_year": 1965,
+    "path": "data/people/p_ulrich_reuter.json"
   },
   {
     "id": "p_ulrich_rydzewski",
@@ -3706,6 +3730,12 @@
     "path": "data/people/p_uwe_dierks.json"
   },
   {
+    "id": "p_uwe_fahrenkrogpetersen",
+    "name": "Uwe Fahrenkrog-Petersen",
+    "birth_year": 1960,
+    "path": "data/people/p_uwe_fahrenkrogpetersen.json"
+  },
+  {
     "id": "p_uwe_fellensiek",
     "name": "Uwe Fellensiek",
     "birth_year": 1955,
@@ -3821,6 +3851,12 @@
     "name": "Uwe Steinmetz",
     "birth_year": 1974,
     "path": "data/people/p_uwe_steinmetz.json"
+  },
+  {
+    "id": "p_uwe_wilhelm",
+    "name": "Uwe Wilhelm",
+    "birth_year": 1957,
+    "path": "data/people/p_uwe_wilhelm.json"
   },
   {
     "id": "p_uwedag_berlin",
