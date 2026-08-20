@@ -1417,6 +1417,12 @@
     "path": "data/people/p_ulli_pfau.json"
   },
   {
+    "id": "p_ulli_stephan",
+    "name": "Ulli Stephan",
+    "birth_year": 1999,
+    "path": "data/people/p_ulli_stephan.json"
+  },
+  {
     "id": "p_ully_artha",
     "name": "Ully Artha",
     "birth_year": 1953,
@@ -1427,6 +1433,12 @@
     "name": "Ully Triani",
     "birth_year": 1984,
     "path": "data/people/p_ully_triani.json"
+  },
+  {
+    "id": "p_ulo_krigul",
+    "name": "Ülo Krigul",
+    "birth_year": 1978,
+    "path": "data/people/p_ulo_krigul.json"
   },
   {
     "id": "p_ulo_pikkov",
@@ -2895,6 +2907,12 @@
     "name": "Urmas Eero Liiv",
     "birth_year": 1966,
     "path": "data/people/p_urmas_eero_liiv.json"
+  },
+  {
+    "id": "p_urmas_vadi",
+    "name": "Urmas Vadi",
+    "birth_year": 1977,
+    "path": "data/people/p_urmas_vadi.json"
   },
   {
     "id": "p_urmet_piiling",
