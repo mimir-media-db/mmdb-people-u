@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_uri_frost",
+  "name": "Uri Frost",
+  "external_ids": {
+    "wikidata": "Q7900523",
+    "imdb": "nm2219225"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1962
+}
