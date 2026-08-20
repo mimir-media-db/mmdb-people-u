@@ -683,6 +683,12 @@
     "path": "data/people/p_uisenma_borchu.json"
   },
   {
+    "id": "p_uje_brandelius",
+    "name": "Uje Brandelius",
+    "birth_year": 1971,
+    "path": "data/people/p_uje_brandelius.json"
+  },
+  {
     "id": "p_ujicha",
     "name": "Ujicha",
     "birth_year": 1986,
