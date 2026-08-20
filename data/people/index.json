@@ -495,6 +495,12 @@
     "path": "data/people/p_ugo_conti.json"
   },
   {
+    "id": "p_ugo_cornia",
+    "name": "Ugo Cornia",
+    "birth_year": 1965,
+    "path": "data/people/p_ugo_cornia.json"
+  },
+  {
     "id": "p_ugo_dighero",
     "name": "Ugo Dighero",
     "birth_year": 1959,
@@ -1875,6 +1881,12 @@
     "path": "data/people/p_ulrike_grote.json"
   },
   {
+    "id": "p_ulrike_haage",
+    "name": "Ulrike Haage",
+    "birth_year": 1957,
+    "path": "data/people/p_ulrike_haage.json"
+  },
+  {
     "id": "p_ulrike_herrmann",
     "name": "Ulrike Herrmann",
     "birth_year": 1964,
@@ -2855,6 +2867,12 @@
     "name": "Uri Bar-On",
     "birth_year": 1975,
     "path": "data/people/p_uri_baron.json"
+  },
+  {
+    "id": "p_uri_brauner",
+    "name": "Uri Brauner",
+    "birth_year": 1979,
+    "path": "data/people/p_uri_brauner.json"
   },
   {
     "id": "p_uri_frost",
