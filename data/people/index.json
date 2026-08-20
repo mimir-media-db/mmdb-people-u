@@ -447,6 +447,12 @@
     "path": "data/people/p_ugo_attanasio.json"
   },
   {
+    "id": "p_ugo_barbara",
+    "name": "Ugo Barbàra",
+    "birth_year": 1969,
+    "path": "data/people/p_ugo_barbara.json"
+  },
+  {
     "id": "p_ugo_broussot",
     "name": "Ugo Broussot",
     "birth_year": 1974,
@@ -1623,6 +1629,12 @@
     "path": "data/people/p_ulrich_seidl.json"
   },
   {
+    "id": "p_ulrich_sinn",
+    "name": "Ulrich Sinn",
+    "birth_year": 1999,
+    "path": "data/people/p_ulrich_sinn.json"
+  },
+  {
     "id": "p_ulrich_stark",
     "name": "Ulrich Stark",
     "birth_year": 1943,
@@ -1878,6 +1890,12 @@
     "name": "Ulrike Schirm",
     "birth_year": 1945,
     "path": "data/people/p_ulrike_schirm.json"
+  },
+  {
+    "id": "p_ulrike_schwarzenberger",
+    "name": "Ulrike Schwarzenberger",
+    "birth_year": 1947,
+    "path": "data/people/p_ulrike_schwarzenberger.json"
   },
   {
     "id": "p_ulrike_sturzbecher",
@@ -2756,6 +2774,12 @@
     "path": "data/people/p_uri_baron.json"
   },
   {
+    "id": "p_uri_frost",
+    "name": "Uri Frost",
+    "birth_year": 1962,
+    "path": "data/people/p_uri_frost.json"
+  },
+  {
     "id": "p_uri_fruchtmann",
     "name": "Uri Fruchtmann",
     "birth_year": 1954,
@@ -2870,6 +2894,11 @@
     "id": "p_urmet_piiling",
     "name": "Urmet Piiling",
     "path": "data/people/p_urmet_piiling.json"
+  },
+  {
+    "id": "p_urmi_juvekar",
+    "name": "Urmi Juvekar",
+    "path": "data/people/p_urmi_juvekar.json"
   },
   {
     "id": "p_urmie_plein",
@@ -3409,6 +3438,12 @@
     "path": "data/people/p_usha_jadhav.json"
   },
   {
+    "id": "p_usha_khanna",
+    "name": "Usha Khanna",
+    "birth_year": 1941,
+    "path": "data/people/p_usha_khanna.json"
+  },
+  {
     "id": "p_usha_krishnan",
     "name": "Usha Krishnan",
     "path": "data/people/p_usha_krishnan.json"
@@ -3869,6 +3904,12 @@
     "name": "Uwe Steinmetz",
     "birth_year": 1974,
     "path": "data/people/p_uwe_steinmetz.json"
+  },
+  {
+    "id": "p_uwe_timm",
+    "name": "Uwe Timm",
+    "birth_year": 1940,
+    "path": "data/people/p_uwe_timm.json"
   },
   {
     "id": "p_uwe_wilhelm",
