@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_uri_katz",
+  "name": "Uri Katz",
+  "external_ids": {
+    "wikidata": "Q100199073",
+    "imdb": "nm2090818"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1971
+}
