@@ -3883,6 +3883,11 @@
     "path": "data/people/p_uwe_grimm.json"
   },
   {
+    "id": "p_uwe_haas",
+    "name": "Uwe Haas",
+    "path": "data/people/p_uwe_haas.json"
+  },
+  {
     "id": "p_uwe_hassbecker",
     "name": "Uwe Hassbecker",
     "birth_year": 1960,
