@@ -1671,6 +1671,12 @@
     "path": "data/people/p_ulrich_rydzewski.json"
   },
   {
+    "id": "p_ulrich_schnauss",
+    "name": "Ulrich Schnauss",
+    "birth_year": 1976,
+    "path": "data/people/p_ulrich_schnauss.json"
+  },
+  {
     "id": "p_ulrich_schwarz",
     "name": "Ulrich Schwarz",
     "birth_year": 1954,
@@ -4027,6 +4033,12 @@
     "name": "Uyển Ân",
     "birth_year": 1999,
     "path": "data/people/p_uyen_an.json"
+  },
+  {
+    "id": "p_uygar_sirin",
+    "name": "Uygar Şirin",
+    "birth_year": 1971,
+    "path": "data/people/p_uygar_sirin.json"
   },
   {
     "id": "p_uygar_tamer",
